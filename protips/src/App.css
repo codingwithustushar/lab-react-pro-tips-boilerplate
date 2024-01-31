@@ -1,0 +1,90 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  
+}
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+nav {
+  display: flex;
+  
+  align-items: center;
+  background-color: #955353;
+  color: white;
+  padding: 10px;
+  width: 98.4vw;
+  position: absolute;
+  top: 0;
+  left: 0;
+
+}
+
+p{
+  font-size: xx-large;
+}
+
+#about{
+  margin-left: 64vw;
+  margin-right: 2vw;
+  color: white;
+}
+
+#form{
+  margin-left: 2vw;
+  color: white;
+}
+
+body{
+  background-color: rgb(73, 145, 155);
+}
+
+.all{
+  margin-left: 36vw;
+  border: 2px solid white;
+  height: auto;
+  width: 33vw;
+  border-radius: 8px;
+  background-color: rgb(164, 210, 213);
+  
+}
+
+form{
+  margin-left: 10vw;
+  margin-top: 5vw;
+}
+
+input{
+  background-color: aliceblue;
+  color: black;
+  margin-left: -10vw;
+}
+
+div.all{
+  margin-left: 29vw;  
+  margin-top: 5vw;
+}
+
+button{
+  margin-left: -10vw;
+  margin-bottom: 1vw;
+}
+
+div.alert{
+  margin-left: -7vw;
+  color: rgb(165, 8, 8);
+  font-size: smaller;
+}
+
+form{
+  margin-top: 4vw;
+}
+
+h2{
+  font-size:x-large;
+}
