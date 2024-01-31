@@ -12,6 +12,7 @@ function App() {
   return (
     <>
       <nav>
+      <Link id='Home' to='/'>Home</Link>
         <Link id='about' to='/about'>About</Link>
         <Link to='/contact'>Contact</Link>
         <Link id='form' to='/Form'>Form</Link>
